@@ -19,3 +19,4 @@ n = int(input().strip())
 for i in range(n):
     y, x = map(int, input().strip().split())
     find_spiral_number(y, x)
+
